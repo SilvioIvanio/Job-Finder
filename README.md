@@ -36,7 +36,7 @@ The current codebase includes:
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/WorkNet.git
+   git clone https://github.com/SilvioIvanio/Job-Finder.git
    ```
 2. Open the project in your IDE
 3. Run `LoginPage.java` to start the application
